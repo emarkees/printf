@@ -1,2 +1,2 @@
 #!/bin/bash
-A collaborative project with semion
+A collaborative project by Adeyemi Olusola and  Simon Chukwuebuka
