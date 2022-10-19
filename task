@@ -1,0 +1,9 @@
+#include "main.h"
+
+/**
+ * _printf - main Write a function that produces output according to a format.
+ * 
+ * Return: the number of characters printed
+ */
+
+int _printf(const char *format, ...)
